@@ -1,0 +1,59 @@
+.Oster{
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    justify-content: flex-start;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-decoration: none;
+    color: black;
+}
+body{
+    background-color: beige;
+}
+.ost{
+    font-size: 35px;
+    text-decoration: none;
+    color: rgba(8, 30, 49, 0.614);
+    text-align: right;
+    margin-left: 700px;
+    margin-bottom: 100px;
+}
+.asd{
+    font-size: 35px;
+    text-decoration: none;
+    color: rgba(8, 30, 49, 0.614);
+    text-align: right;
+    margin-left: 150px;
+}
+nav{
+    border: 3px solid peru;
+    border-radius: 20px;
+    background-color: #38E156;
+}
+.Oster:hover{
+    color: chocolate;
+    border: 3px solid goldenrod;
+    border-radius: 20px;
+}
+.asd:hover{
+    color: rgb(14, 68, 7);
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+.sdf{
+    font-size: 25px;
+}
+.golf{
+    font-size: 32px;
+}
+.bool{
+    font-size: 30px;
+}
+.youtube{
+    height: 100px;
+}
+footer{
+    background-color: #AB2B52;
+}

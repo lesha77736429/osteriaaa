@@ -1,0 +1,114 @@
+.Oster{
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    justify-content: flex-start;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-decoration: none;
+    color: black;
+}
+body{
+    background-color: beige;
+}
+nav{
+    border: 3px solid peru;
+    border-radius: 20px;
+    background-color: #38E156;
+}
+.ost{
+    font-size: 35px;
+    text-decoration: none;
+    color: rgba(8, 30, 49, 0.614);
+    text-align: right;
+    margin-left: 700px;
+    margin-bottom: 100px;
+}
+.asd{
+    font-size: 35px;
+    text-decoration: none;
+    color: rgba(8, 30, 49, 0.614);
+    text-align: right;
+    margin-left: 150px;
+}
+.ost:hover{
+    color: rgb(14, 68, 7);
+}
+.asd:hover{
+    color: rgb(14, 68, 7);
+}
+.nash{
+    font-size: 50px;
+    text-align: center;
+}
+.qwe{
+    height: 600px;
+    width: 1600px;
+}
+.image-text-container {
+    position: relative;
+    display: inline-block;
+  }
+  
+.text-overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(255, 255, 255);
+    font-size: 35px;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
+}
+.vbn{
+    float: left;
+}
+.noob{
+    height: 330px;
+    opacity: 0.3;
+    
+}
+.pro{
+    font-size: 33px;
+    text-align: center;
+    padding-top: 90px;
+}
+.noob:hover{
+    opacity: 1;
+}
+.bmw{
+    font-size: 35px;
+    margin-left: 30px;
+}
+.zakon{
+    text-decoration: none;
+    font-size: 33px;
+    color: chocolate;
+    margin-left: 30px;
+}
+.zakon:hover{
+    border: 3px solid brown;
+    border-radius: 9px;
+}
+.dav{
+    width: 450px;
+    margin-top: 150px;
+    margin-left: 40px;
+}
+h2{
+    font-size: 30px;
+}
+table{
+    border: 2px double chocolate;
+}
+td{
+    border: 2px solid chocolate;
+    font-size: 20px;
+}
+.youtube{
+    height: 100px;
+}
+.soz{
+    font-size: 25px;
+}
+footer{
+    background-color: #AB2B52;
+}
